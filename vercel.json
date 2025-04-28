@@ -28,8 +28,6 @@
         "DB_CONNECTION": "pgsql",
         "DB_URL" : "postgresql://postgres:Sandiygrumit1@db.bfmsgalncxuduvzvhpfn.supabase.co:5432/postgres",
         "DB_PASSWORD": "Sandiygrumit1",
-        "DB_HOST": "aws-0-ap-southeast-1.pooler.supabase.com",
-        "DB_PORT": "6543",
         "DB_DATABASE": "postgres",
         "DB_USERNAME": "postgres.bfmsgalncxuduvzvhpfn "
     }
